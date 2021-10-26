@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.reverb.pkg.GoogleDrive</string>
+	<string>com.github.reverb.download.GoogleDrive</string>
 	<key>Process</key>
 	<array>
 		<dict>

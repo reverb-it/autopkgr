@@ -21,7 +21,7 @@
 	<array>
 		<dict>
 			<key>Processor</key>
-			<string>PkgCopier</string>
+			<string>PkgExtractor</string>
 		</dict>
 	</array>
 </dict>
